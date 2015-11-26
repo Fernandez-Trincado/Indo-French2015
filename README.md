@@ -3,8 +3,9 @@
 Indo-French Astronomy School for Optical Spectroscopy 2015
 ----------------------------------------------------------
 
-Project: "Spectral properties of optical hosts in radio galaxies"
+Project: 
 -------
+"Spectral properties of optical hosts in radio galaxies"
 
 Link: http://www.iucaa.ernet.in/~ifsc/iucaa-school-reserachprojects.html
 
