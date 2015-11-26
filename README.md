@@ -47,7 +47,7 @@ Contributions
   which gives
 
 Figure here
-![Alt text](ftp://ftp.utinam.cnrs.fr/obs/jfernandez/outgoing/data_2MASXJ02140443+1311562-spec-0428-51883-0063.nspec.png "test")
+![Alt text](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/data_2MASXJ02140443%2B1311562-spec-0428-51883-0063.nspec.png "Figure 1: Integrated energy flux")
 
 
 
