@@ -1,0 +1,29 @@
+# Indo-French2015
+Indo-French Astronomy School for Optical Spectroscopy 2015
+==========================================================
+
+
+Project: "Spectral properties of optical hosts in radio galaxies"
+
+Mentor: Mamta Pommier and David Lagattuta
+
+Abstract: 
+=========
+The Optical hosts of extra galactic radio sources tend to show a variety of spectral properties, from strong emission lines (in Seyfert and N galaxies), to normal quiescent features (such as absorption features in elliptical galaxies). The aim of this project is to study the optical properties of homogeneous sets of radio galaxies(quiet as well as loud) in order to investigate the general radio and optical properties of Active Galactic Nuclei (AGNs). We will use the spectral and photometric data available from the SDSS archive to study the emission line and continuum characteristics of AGNs. Using line ratios like (NII/H-alpha) and ([OIII]/H-beta) we will calculate specific physical parameters such as star formation rate (SFR), metallicity, and stellar age. Additionally, we can take advantage of newly available MUSE data to probe spatial variations of these properties and measure the dynamics of the galaxies themselves (thus giving us a better picture of their local mass environments). We can also classify the galaxies (using the BPT diagram) into star forming and AGN-dominated galaxies, giving us insight into the progenitors of massive radio galaxy AGNs.
+We expect to train the participants of this project in using SDSS data archive to address various scientific problems. The results expected are listed below:
+
+-Spectral and morphological classification of optical hosts of radio galaxies
+-Studying the emission lines in AGNs
+-probing potentially spatially-variable stellar populations in host galaxies
+
+Archive Data: HST Spectra and images,  MUSE data
+
+Software required: Python, IRAF, GALFIT, SAOImager DS9 (data visualization tool)
+
+Allotted Participants:
+=====================
+J. G. Fernandez-Trincado, Besancon, France
+Preethi K, Christ Univ, Blore
+Mridweeka Singh, ARIES
+Rajeshwari Dutta, IUCAA
+Pritesh Ranadive, HBCSE, Mumbai
