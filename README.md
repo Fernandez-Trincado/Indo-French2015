@@ -37,11 +37,17 @@ Pritesh Ranadive, HBCSE, Mumbai
 Contributions
 =============
 
-[1] Programs 
+[1] "specnorm.py": An interactive spectrum normalizer, more information in http://python4esac.github.io/plotting/specnorm.html
+
+[2] "BPT_.py": Program to compute ... 
 
 
 
 
+
+
+
+last update: 11/26/2015
 
 
 
