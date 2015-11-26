@@ -5,7 +5,9 @@ Indo-French Astronomy School for Optical Spectroscopy 2015
 
 Project: "Spectral properties of optical hosts in radio galaxies"
 
-Mentor: Mamta Pommier and David Lagattuta
+Link: http://www.iucaa.ernet.in/~ifsc/iucaa-school-reserachprojects.html
+
+Mentor: Mamta Pommier (IUCAA, India) and David Lagattuta (Lyon, France)
 
 Abstract: 
 =========
@@ -23,7 +25,25 @@ Software required: Python, IRAF, GALFIT, SAOImager DS9 (data visualization tool)
 Allotted Participants:
 =====================
 J. G. Fernandez-Trincado, Besancon, France
+
 Preethi K, Christ Univ, Blore
+
 Mridweeka Singh, ARIES
+
 Rajeshwari Dutta, IUCAA
+
 Pritesh Ranadive, HBCSE, Mumbai
+
+Contributions
+=============
+
+[1] Programs 
+
+
+
+
+
+
+
+
+
