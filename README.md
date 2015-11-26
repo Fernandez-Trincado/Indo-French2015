@@ -40,7 +40,7 @@ Pritesh Ranadive, HBCSE, Mumbai
 Contributions
 -------------
 
-* specnorm.py is an interactive spectrum normalizer. An integrated version of "specnorm.py" can be found at < http://python4esac.github.io/plotting/specnorm.html>.
+* specnorm.py is an interactive spectrum normalizer. An integrated version of "specnorm.py" can be found at <http://python4esac.github.io/plotting/specnorm.html>.
 
 * BPT_.py can estimate the integrated energy flux for only a set of windows. 
 
