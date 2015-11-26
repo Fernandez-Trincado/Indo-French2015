@@ -39,9 +39,11 @@ Contributions
 
 [1] "specnorm.py": An interactive spectrum normalizer. An integrated version of "specnorm.py" is described in this link. http://python4esac.github.io/plotting/specnorm.html
 
-[2] "BPT_.py": Program to compute ... 
+[2] "BPT_.py" can generate the integrated line profile for only a set of windows. 
 
+  which gives
 
+Figure here
 
 
 
