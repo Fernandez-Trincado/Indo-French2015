@@ -47,7 +47,7 @@ Contributions
   which gives
 
 Figure here
-
+![Alt text](https://github.com/jobovy/apogee/blob/master/_readme_files/_windows_al_moog_example.png "test")
 
 
 
