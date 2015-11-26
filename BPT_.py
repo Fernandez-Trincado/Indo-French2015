@@ -1,8 +1,8 @@
 #!/usr/bin/python                                                                                                                                                                                                                                                                             
 
 # Created by: J. G. Fernandez-Trincado, Ayesha Anjum, Pritesh Ranadive
-# Program: This program was created to computed the total flux for [OIII], [NII], Halpha, and Hbeta, for both emission 
-# and absortion lines of Galaxies to differents redshift. 
+# Program description: ...
+
 
 import numpy as np
 import scipy as sc
