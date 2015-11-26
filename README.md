@@ -7,7 +7,7 @@ Project:
 -------
 "Spectral properties of optical hosts in radio galaxies"
 
-Link: http://www.iucaa.ernet.in/~ifsc/iucaa-school-reserachprojects.html
+More information can be found at: http://www.iucaa.ernet.in/~ifsc/iucaa-school-reserachprojects.html
 
 Mentor: Mamta Pommier (IUCAA, India) and David Lagattuta (Lyon, France)
 
