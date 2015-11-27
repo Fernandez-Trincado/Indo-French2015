@@ -55,7 +55,7 @@ Figure 2: SDSS Line-ratio Diagram. The gray shading represents the entire galaxy
 
 
 
-last update: 11/26/2015
+last update: 11/27/2015
 
 
 
