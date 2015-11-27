@@ -49,7 +49,7 @@ Contributions
 Figure1: Integrated energy flux
 ![Figure 1: Integrated energy flux](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/Figures/data_2MASXJ02140443%2B1311562-spec-0428-51883-0063.nspec.png "Figure 1: Integrated energy flux")
 
-Figure 2: SDSS Line-ratio Diagram. The gray shading represents the entire galaxy sample from <http://wwwmpa.mpa-garching.mpg.de/SDSS/DR7/SDSS_line.html#Line_Name>, while the red square open symbols are the AGN sample explored in this work.
+Figure 2: SDSS Line-ratio Diagram. The gray shading represents the entire galaxy sample from <http://wwwmpa.mpa-garching.mpg.de/SDSS/DR7/SDSS_line.html#Line_Name>, while the red square open symbols are the AGN sample analized in this project.
 
 ![Figure 1: BPT diagram](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/Figures/BPT.png "Figure 2: BPT diagram")
 
