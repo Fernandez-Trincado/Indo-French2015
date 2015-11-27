@@ -49,7 +49,7 @@ Contributions
 Figure1: Integrated energy flux
 ![Figure 1: Integrated energy flux](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/Figures/data_2MASXJ02140443%2B1311562-spec-0428-51883-0063.nspec.png "Figure 1: Integrated energy flux")
 
-Figure 2: BTP diagram
+Figure 2: SDSS Line-ratio Diagram
 ![Figure 1: BPT diagram](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/BPT2.png "Figure 2: BPT diagram")
 
 
