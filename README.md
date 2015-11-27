@@ -76,8 +76,3 @@ Figure1.5: Galaxy5
 
 
 last update: 11/27/2015
-
-
-
-
-
