@@ -47,7 +47,7 @@ Contributions
   which gives
 
 Figure1: Integrated energy flux
-![Figure 1: Integrated energy flux](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/data_LEDA1470148-spec-0430-51877-0529.fits.nspec.png "Figure 1: Integrated energy flux")
+![Figure 1: Integrated energy flux](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/Figures/data_2MASXJ02140443%2B1311562-spec-0428-51883-0063.nspec.png "Figure 1: Integrated energy flux")
 
 Figure 2: BTP diagram
 ![Figure 1: BPT diagram](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/BPT2.png "Figure 2: BPT diagram")
