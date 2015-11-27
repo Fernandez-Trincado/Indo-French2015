@@ -9,8 +9,6 @@ from matplotlib import cm as CM
 data = sc.genfromtxt('red.dat')
 data1 = sc.genfromtxt('gal_line_dr7_v5_2.fit.txt')
 
-
-
 N =20
 
 f=plt.figure(1)
@@ -45,14 +43,14 @@ CS     = a1.contour(np.log10(masked.T), levels, colors='k',linewidths=1,extent=[
 #hex=ax.hexbin(data[:,0],data[:,1],data[:,2],gridsize=5,cmap=CM.jet)
 #cb=f.colorbar(hex)
 #cb.set_label('Z',fontsize=N)
-a1.plot(X, Y, '-',color='blue',lw=3,label='Kewley+01')
+a1.plot(X, Y, '-',color='magenta',lw=3,label='Kewley+01')
 a1.set_xlim(-1.2, 1.0)
 a1.set_ylim(-1.2, 1.0)
 a1.set_xlabel(r'log([NII] $\lambda$ 6583/H$\alpha$)',fontsize=N)
 a1.set_ylabel(r'log([OIII] $\lambda$ 5007/H$\beta$)',fontsize=N)
 ##
-a1.plot(X3,Y3,'-.',color='blue',lw=3,label='Schawinski+07')
-a1.plot(Xk, Yk,'--',color='blue',label='Kauffmann+03')
+a1.plot(X3,Y3,'-.',color='magenta',lw=5,label='Schawinski+07')
+a1.plot(Xk, Yk,'--',color='magenta',lw=5,label='Kauffmann+03')
 ##ax.plot(X1,Y1,'s',ms=15, fillstyle='none')
 a1.tick_params(labelsize = N)
 
@@ -60,7 +58,7 @@ shape = ['s','o','+','x','^']
 
 for i in np.arange(len(shape)):
 
-	a1.plot(data[i,0],data[i,1],shape[i],mew=3,ms=15,fillstyle='none',color='red',label='Galaxy'+str(int(i)+1))
+	a1.plot(data[i,0],data[i,1],shape[i],mew=3,ms=15,fillstyle='none',color='blue',label='Galaxy'+str(int(i)+1))
 
 a1.legend(numpoints=1,loc=4)
 
