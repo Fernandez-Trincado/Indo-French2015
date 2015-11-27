@@ -65,4 +65,8 @@ for i in np.arange(len(shape)):
 a1.legend(numpoints=1,loc=4)
 
 
+a1.text(-1.0,-1.0,'star-forming'+'\n dominated',color='black',fontsize=25)
+a1.text(0.5,0.,'LINER',color='black',fontsize=25)
+a1.text(-0.25,0.75,'Seyfert 2',color='black',fontsize=25)
+
 plt.show()
