@@ -39,7 +39,7 @@ Pritesh Ranadive, HBCSE, Mumbai
 
 Photo
 ----
-<https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/IMG_20151128_104931612.jpg>
+<https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/IMG_20151128_104931612.png>
 
 Talk
 ----
