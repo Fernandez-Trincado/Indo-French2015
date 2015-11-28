@@ -39,7 +39,7 @@ Pritesh Ranadive, HBCSE, Mumbai
 
 Talk
 ----
-Talk here: <https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/presentation-PhAs-301115.pdf>
+Talk can be found at <https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/presentation-PhAs-301115.pdf>
 
 Contributions
 -------------
