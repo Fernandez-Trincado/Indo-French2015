@@ -37,15 +37,14 @@ Rajeshwari Dutta, IUCAA
 
 Pritesh Ranadive, HBCSE, Mumbai
 
-Photo
+Working Group
 ----
 
 ![Photo](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/IMG_20151128_104931612.png "Photo")
 
 Talk
 ----
-Talk can be found at <https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/ifsc2015.pdf>
-
+Our talk can be found at <https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/ifsc2015.pdf>
 
 Contributions
 -------------
