@@ -40,7 +40,7 @@ Pritesh Ranadive, HBCSE, Mumbai
 Working Group
 ----
 
-![Photo](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/IMG_20151128_104931612.png "Photo")
+![Photo](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/Working_group.jpg "Photo")
 
 Talk
 ----
