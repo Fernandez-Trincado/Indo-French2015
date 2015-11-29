@@ -6,8 +6,11 @@ import scipy as sc
 import pylab as plt
 from matplotlib import cm as CM
 
-data = sc.genfromtxt('red.dat')
-data1 = sc.genfromtxt('gal_line_dr7_v5_2.fit.txt')
+data = sc.genfromtxt('lines_ratios.dat')
+data1 = sc.genfromtxt('gal_line_dr7_v5_2.fit.txt') # Input --->
+
+'''Input ---> SDSS Line-ratio Diagram. The gray shading represents the entire galaxy sample from http://wwwmpa.mpa-garching.mpg.de/SDSS/DR7/SDSS_line.html#Line_Name, and "The spectroscopic data is in gal_line and the content is described here. This file contain line fluxes (in units of 1e-17 erg/s/cm^2), equivalent widths and continuum fluxes. 678Mb" http://wwwmpa.mpa-garching.mpg.de/SDSS/DR7/raw_data.html while the red square open symbols are the AGN sample analized in this project.
+'''
 
 N =20
 
@@ -34,7 +37,7 @@ aspectratio = 1.0*(2.5)/(2.4)
 masked = np.ma.masked_where(hist==0, hist)
 a=a1.imshow(masked.T,extent=[-1.2,1.2,-1.5,1.0],interpolation='nearest',origin='lower', aspect=aspectratio,cmap=plt.cm.gray_r)
 #a_=plt.colorbar(a,shrink=1.)
-levels = np.linspace(0., np.log10(masked.max()), 10)[1:]
+levels = np.linspace(0., np.log10(masked.max()), 5)[1:]
 CS     = a1.contour(np.log10(masked.T), levels, colors='k',linewidths=1,extent=[-1.2,1.2,-1.5,1.0])
 
 
