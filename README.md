@@ -73,7 +73,7 @@ Figure1.2: Galaxy2
 
 Figure1.3: Galaxy3
 
-![Figure 1: BPT diagram](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/Figures/Galaxy3.png "Figure 2: BPT diagram")[Figure 1: BPT diagram](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/Figures/Galaxy4.png "Figure 2: BPT diagram")
+![Figure 1: BPT diagram](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/Figures/Galaxy3.png "Figure 2: BPT diagram")
 
 Figure1.4: Galaxy4
 
@@ -87,7 +87,6 @@ GALFIT
 ----
 
 Please find here <https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/GALFIT.pdf> , the commands to run GALFIT.
-
 
 
 
