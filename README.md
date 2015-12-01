@@ -86,9 +86,9 @@ Figure1.5: Galaxy5
 GALFIT
 ----
 
-Please find here <http://python4esac.github.io/plotting/specnorm.html> , the commands to run GALFIT.
+Please find here <https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/GALFIT.pdf> , the commands to run GALFIT.
 
 
 
 
-last update: 11/28/2015
+last update: 12/01/2015
