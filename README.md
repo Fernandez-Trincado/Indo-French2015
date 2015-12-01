@@ -83,7 +83,10 @@ Figure1.5: Galaxy5
 
 ![Figure 1: BPT diagram](https://github.com/Fernandez-Trincado/Indo-French2015/blob/master/Figures/Galaxy5.png "Figure 2: BPT diagram")
 
+GALFIT
+----
 
+Please find here <http://python4esac.github.io/plotting/specnorm.html> , the commands to run GALFIT.
 
 
 
